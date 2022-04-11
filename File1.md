@@ -1,8 +1,8 @@
-# Version 1
+# Version 2
 
 ## E- Commerce Website
 
-By: 
+By Students of TE COMPS B: 
 - Shreya Kakade
 - Apeksha Kamath
 - Yumna Khan
